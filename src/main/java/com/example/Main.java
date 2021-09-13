@@ -1,6 +1,10 @@
 package com.example;
 
 import java.util.Scanner;
+/*
+ *  UCF COP3330 Fall 2021 Assignment 14 Solution
+ *  Copyright 2021 Richard Nham
+ */
 
 public class Main {
 
